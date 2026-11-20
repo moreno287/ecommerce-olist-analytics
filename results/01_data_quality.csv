@@ -1,0 +1,8 @@
+check_name,value
+orders in raw table,99441
+duplicate order_id,0
+orders in analysis window,99092
+orders with no items,739
+delivered with no delivery date,8
+orders with no review,762
+unique customers,95774

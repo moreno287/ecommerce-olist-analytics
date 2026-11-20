@@ -1,0 +1,7 @@
+segment,customers,pct_customers,avg_recency_days,avg_spend_brl,pct_revenue
+New high-value,22797,24.1,115.0,262.0,38.1
+Lapsed high-value,22030,23.3,365.0,265.0,37.3
+Lapsed low-value,24021,25.4,366.0,64.0,9.8
+New low-value,22981,24.3,115.0,63.0,9.2
+"Loyal (repeat, recent)",1573,1.7,115.0,315.0,3.2
+"Repeat, lapsing",1301,1.4,355.0,301.0,2.5
